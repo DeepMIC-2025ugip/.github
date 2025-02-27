@@ -84,13 +84,13 @@ This architecture ensures a **fully managed, highly scalable, and cost-efficient
 The core intelligence of **TherapysToy** lies in its **AI-powered emotional understanding and natural conversation capabilities**. Our AI system uses **speech emotion recognition, machine learning models, and RAG-based conversation enhancements**.
 
 ### **🗣 Speech-to-Speech with AI Stuffed Toy**
-![Speech-to-Speech with AI Stuffed Toy](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
+![Speech-to-Speech with AI Stuffed Toy](https://github.com/DeepMIC-2025ugip/.github/blob/main/images/sTs_toy.png)
 
 ### **🧸 Character & Mental Health Analysis**
-![Character & Mental Health Analysis](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
+![Character & Mental Health Analysis](https://github.com/DeepMIC-2025ugip/.github/blob/main/images/character_analysis.png)
 
 ### **🌐 QA System in Web App**
-![QA System in Web App](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
+![QA System in Web App](https://github.com/DeepMIC-2025ugip/.github/blob/main/images/qa_systempng.png)
 
 ---
 
