@@ -12,13 +12,13 @@ Our flagship product, **TherapysToy**, is an **AI-powered interactive stuffed an
 We have prepared **hardware and web application demos** to showcase how **TherapysToy** functions in real-world scenarios.
 
 ### **🧸 Hardware Demo 1: AI-Powered Stuffed Toy in Action**
-[![Watch Hardware Demo 1](https://img.youtube.com/vi/YOUR_VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1)
+[![Watch Hardware Demo 1](https://img.youtube.com/vi/zmtyfYr-J1Y/0.jpg)](https://www.youtube.com/watch?v=zmtyfYr-J1Y)
 
 ### **🎤 Hardware Demo 2: Speech Recognition & Emotional Response**
-[![Watch Hardware Demo 2](https://img.youtube.com/vi/YOUR_VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2)
+[![Watch Hardware Demo 2](https://img.youtube.com/vi/amOpvOqpsSk/0.jpg)](https://www.youtube.com/watch?v=amOpvOqpsSk)
 
 ### **🌐 Web App Demo: Caregiver Dashboard & AI Reports**
-[![Watch Web App Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_3)
+[![Watch Web App Demo](https://img.youtube.com/vi/n6q0AeKy2mY/0.jpg)](https://www.youtube.com/watch?v=n6q0AeKy2mY)
 
 📌 **Click on any thumbnail to watch the full demo!**  
 🔹 **Hardware Demos** showcase the AI-powered stuffed animal interacting with children.  
