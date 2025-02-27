@@ -45,7 +45,7 @@ We have prepared **hardware and web application demos** to showcase how **Therap
 **TherapysToy** is built with a combination of **embedded AI**, **cloud computing**, and **natural language processing (NLP)** technologies to ensure **high-quality interactions and reliable mental health assessments**.
 
 ### **🛠 System Architecture**
-![System Architecture](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
+![System Architecture](https://github.com/DeepMIC-2025ugip/.github/blob/main/images/system.png)
 
 🔹 **Core Components**
 1. **AI Stuffed Animal**  
@@ -68,7 +68,7 @@ We have prepared **hardware and web application demos** to showcase how **Therap
 ## ☁️ **AWS Cloud Infrastructure**
 To ensure **scalability, security, and real-time AI processing**, TherapysToy is powered by **AWS-based infrastructure**.
 
-![AWS Infrastructure](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
+![AWS Infrastructure](https://github.com/DeepMIC-2025ugip/.github/blob/main/images/aws-cluster.png)
 
 🔹 **Key AWS Components**
 - **Amazon ECS (Elastic Container Service) + Fargate** – Containerized deployment of AI services, ensuring efficient and scalable execution.
@@ -83,14 +83,14 @@ This architecture ensures a **fully managed, highly scalable, and cost-efficient
 ## 🧠 **AI & Data Algorithm**
 The core intelligence of **TherapysToy** lies in its **AI-powered emotional understanding and natural conversation capabilities**. Our AI system uses **speech emotion recognition, machine learning models, and RAG-based conversation enhancements**.
 
-### **🎯 AI Model Overview**
-![AI Model Overview](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
+### **🗣 Speech-to-Speech with AI Stuffed Toy**
+![Speech-to-Speech with AI Stuffed Toy](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
 
-### **🗣 Speech Emotion Recognition**
-![Speech Emotion Recognition](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
+### **🧸 Character & Mental Health Analysis**
+![Character & Mental Health Analysis](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
 
-### **📊 Data Processing & Mental Health Analysis**
-![Data Processing & Analysis](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
+### **🌐 QA System in Web App**
+![QA System in Web App](https://github.com/YOUR-ORG/.github/assets/your-image-link.png)
 
 ---
 
